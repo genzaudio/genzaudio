@@ -1,16 +1,23 @@
-## Hi there 👋
+# Gen Z Audio
 
-<!--
-**genzaudio/genzaudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Website profesional untuk layanan audio dan sound system **Gen Z Audio**.
 
-Here are some ideas to get you started:
+🔗 Live Demo: [https://namagithub.github.io/genz-audio](https://namagithub.github.io/genz-audio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fitur
+- Desain modern dan responsif
+- Halaman: Beranda, Layanan, Portofolio, Testimoni, Kontak
+- Optimasi mobile-first
+- Siap deploy di GitHub Pages
+
+## Cara Menjalankan
+1. Clone repositori ini
+2. Buka file `index.html` di browser
+
+## Deploy ke GitHub Pages
+1. Push kode ke GitHub
+2. Buka Settings > Pages
+3. Pilih branch `main` dan folder root
+4. Simpan — situs akan live dalam 1-2 menit!
+
+Dibuat dengan ❤️ untuk generasi suara terbaik.
